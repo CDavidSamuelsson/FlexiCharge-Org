@@ -82,7 +82,11 @@ When adding you name do so in this format: `[@AlexTelon](https://github.com/Alex
 | [@foal20ym](https://github.com/foal20ym) (Alexander) |  PO  |
 |               |  SM  |
 |               |  Test Lead  |
+<<<<<<< HEAD
 |[@CDavidSamuelsson](https://github.com/CDavidSamuelsson) |  Developer  |
+=======
+|[@CDavidSamuelsson](https://github.com/CDavidSamuelsson)               |  Developer  |
+>>>>>>> 33263cac2abb171ff9cc0493bf4362fac4d9bc53
 |               |  Developer  |
 
 ## FlexiCharge-Org
